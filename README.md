@@ -1,8 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+My name is Seong, and I'm a management consultantt interested in all things Machine Learning & Commercial Analysis!
+
 
 <!--
 **SeonghyunYong/SeonghyunYong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
