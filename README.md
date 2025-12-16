@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-My name is Seong, I’m passionate about using data and machine learning to solve commercial problems. I love turning complex data and scary numbers into something easy to work with to help people make data-driven commercial and financial decision.
+My name is Seong, I’m passionate about using data and machine learning to solve commercial problems. I love turning complex data and intimidating numbers into clear, data-driven commercial and financial strategy.
 
 My background in management consulting gave me hands-on experience helping clients improve operations and make strategic decisions under uncertainty. Over time, I realised my favourite part of every project was the quantitative core — cleaning messy data, building predictive models, and uncovering patterns that drive measurable impact.
 
