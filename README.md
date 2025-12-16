@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-My name is Seong, and I'm a management consultantt interested in all things Machine Learning & Commercial Analysis!
+My name is Seong, I’m passionate about using data and machine learning to solve commercial problems. I love turning complex data and scary numbers into something easy to work with to help people make data-driven commercial and financial decision.
+
+My background in management consulting gave me hands-on experience helping clients improve operations and make strategic decisions under uncertainty. Over time, I realised my favourite part of every project was the quantitative core — cleaning messy data, building predictive models, and uncovering patterns that drive measurable impact.
+
+- 💬 Ask me anything about personal finance! I can spend hours chatting about Vanguard, the 4% rule, or lifestyle design!
+- 🔭 I’m currently working on machine learning and statistical models to create data-driven investment strategies
+- 🌱 I’m currently learning deep learning and monte carlo simulation
 
 
 <!--
