@@ -5,7 +5,7 @@ My name is Seong, I’m passionate about using data and machine learning to solv
 My background in management consulting gave me hands-on experience helping clients improve operations and make strategic decisions under uncertainty. Over time, I realised my favourite part of every project was the quantitative core — cleaning messy data, building predictive models, and uncovering patterns that drive measurable impact.
 
 - 💬 Ask me anything about personal finance! I can spend hours chatting about Vanguard, the 4% rule, or lifestyle design!
-- 🔭 I’m currently working on machine learning and statistical models to create data-driven investment strategies
+- 🔭 I’m currently working on creating machine learning and statistical models to refine investment strategies
 - 🌱 I’m currently learning deep learning and monte carlo simulation
 
 
