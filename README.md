@@ -2,8 +2,6 @@
 
 My name is Seong, I’m passionate about using data and machine learning to solve commercial and financial problems. I love turning complex and intimidating data into clear, data-driven commercial and financial strategies to support confident decision making.
 
-My background in management consulting gave me hands-on experience helping clients improve operations and make strategic decisions under uncertainty. Over time, I realised my favourite part of every project was the quantitative core — cleaning messy data, building predictive models, and uncovering patterns that drive measurable impact.
-
 - 💬 Ask me anything about personal finance! I can spend hours chatting about ETFs, tax savings accounts, portfolio construction, or financial independence!
 - 🔭 I’m currently working on creating machine learning and statistical models to refine index investing strategies
 - 🌱 I’m currently learning monte carlo simulation and artificial neural networks
