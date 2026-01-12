@@ -2,7 +2,7 @@
 
 My name is Seong, I’m passionate about using data and machine learning to solve commercial and financial problems. I love turning complex and intimidating data into clear, data-driven commercial and financial strategies to support confident decision making.
 
-- 💬 Ask me anything about personal finance! I can spend hours chatting about ETFs, tax savings accounts, portfolio construction, or financial independence!
+- 💬 Ask me anything about personal finance! I can spend hours chatting about ETFs, tax-advantaged investment accounts, portfolio construction, or financial independence!
 - 🔭 I’m currently working on creating machine learning and statistical models to refine index investing strategies
 - 🌱 I’m currently learning monte carlo simulation and artificial neural networks
 
