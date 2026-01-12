@@ -4,7 +4,7 @@ My name is Seong, I’m passionate about using data and machine learning to solv
 
 - 💬 Ask me anything about personal finance! I can spend hours chatting about ETFs, tax-advantaged investment accounts, portfolio construction, or financial independence!
 - 🔭 I’m currently working on creating machine learning and statistical models to refine index investing strategies
-- 🌱 I’m currently learning monte carlo simulation and artificial neural networks
+- 🌱 I’m currently learning monte carlo simulation
 
 
 <!--
